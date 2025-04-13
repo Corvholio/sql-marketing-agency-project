@@ -1,0 +1,8 @@
+platform_id,platform_name,category,cost_model
+2cd98818-b0ed-45d5-bf64-6b610105bf2c,Google Ads,Search,CPC
+833c108f-03c4-49b0-8ab4-beb52764c3cb,Meta Ads,Social,CPM
+f8091db0-8915-4c9d-a848-030ff4e11844,LinkedIn Ads,Social,CPC
+d69a7560-4d0c-4818-8541-8e0c45f43769,Twitter Ads,Social,CPM
+e26263ef-e2cf-4059-a74f-105b2bc09db9,YouTube Ads,Video,CPV
+a9d03cd8-79fb-4be1-abda-02d7e95795d8,Display Network,Display,CPM
+2280431c-4662-4b07-97d1-126a5eb4658e,TikTok Ads,Social,CPA
