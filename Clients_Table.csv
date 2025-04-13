@@ -1,0 +1,26 @@
+client_id,company_name,industry,location,contact_name,contact_email,joined_date,is_active
+ec75a74c-7f39-47d0-abb7-43d6a6e11675,"Rodriguez, Figueroa and Sanchez",E-commerce,"New Roberttown, United States",Brian Yang,brian.yang@rodriguezfigueroaandsanchez.com,2021-01-28,True
+0bee365c-d2d0-467d-8373-dad18c8021e7,Hall PLC,Healthcare,"Robinsonshire, Canada",Cristian Santos,cristian.santos@hallplc.com,2022-08-24,True
+89925795-1431-4779-bccc-2dbc5d62e893,Blake and Sons,E-commerce,"Curtisfurt, Ireland",Gina Moore,gina.moore@blakeandsons.com,2021-02-06,True
+859e7f3d-cf8f-427e-85e5-cdd6c1afb64a,Abbott-Munoz,Hospitality,"Millerport, United States",Monica Herrera,monica.herrera@abbott-munoz.com,2023-05-10,True
+4a224703-327a-4a0b-b1d1-9ef147eeda2d,"Lee, Jones and Stanley",Healthcare,"South Joshuastad, Canada",Victoria Wyatt,victoria.wyatt@leejonesandstanley.com,2021-08-30,True
+5de7c475-a173-457d-8543-4a3e30b023b6,Kelly-Santiago,Retail,"New Jessica, Ireland",Melinda Jones,melinda.jones@kelly-santiago.com,2021-09-01,True
+a931efe8-3578-497a-8a99-84b8f7de8dba,Gray-Mayo,Automotive,"East Lydiamouth, Australia",Kristin Cohen,kristin.cohen@gray-mayo.com,2023-09-10,True
+fbc58920-e606-46eb-9391-fdd4e7f70740,Jones-Gentry,Media,"Fostermouth, United Kingdom",Michelle Lewis,michelle.lewis@jones-gentry.com,2021-06-29,False
+704077ae-7883-452f-b5c5-0c5e5e4f9861,Taylor-Mcgee,Retail,"Coxberg, Canada",Nicole Patterson,nicole.patterson@taylor-mcgee.com,2024-08-12,True
+c43498d4-2033-4b3f-ad42-2913e2732151,Davis-Williams,Finance,"Carlsonfurt, United Kingdom",Mark Conner,mark.conner@davis-williams.com,2023-07-11,True
+5a78f3cd-d894-4f27-8973-9bdc0e2abe91,"Ferrell, Rice and Maddox",Finance,"Kaylamouth, United States",Alexandra Le,alexandra.le@ferrellriceandmaddox.com,2021-03-24,True
+fb5a978b-0782-4a22-bd14-a07da4085a22,Graham-Chavez,E-commerce,"New Rita, United Kingdom",Sherri Baker,sherri.baker@graham-chavez.com,2022-10-26,False
+297a2629-a3a8-407d-bc79-88f8fff5013e,"Romero, Gonzalez and Brooks",Media,"New Mariotown, United Kingdom",Troy Nielsen,troy.nielsen@romerogonzalezandbrooks.com,2021-03-25,False
+188522a4-786b-479b-8cf4-288b19ef206c,Koch-Decker,Real Estate,"North Jessicaland, Ireland",Anthony Humphrey,anthony.humphrey@koch-decker.com,2024-10-23,True
+ffec8161-7e48-47c5-9b90-f2b284abe7de,Anderson Group,Hospitality,"Brandtside, United States",Carmen Rose,carmen.rose@andersongroup.com,2021-12-27,True
+42e39585-0b05-4fd8-ab5d-c9500ee24dc9,"Collins, Carney and Santos",Media,"North Matthew, United Kingdom",Joseph Martinez,joseph.martinez@collinscarneyandsantos.com,2024-12-27,True
+553d759e-fdf5-4229-bdae-cd5c7b657240,Chapman Inc,E-commerce,"Port Markhaven, United States",Mark Perez,mark.perez@chapmaninc.com,2022-04-21,True
+e3e50b19-0aac-4b58-bf55-ab3dfec745ff,Caldwell-Lewis,Education,"Sanchezfort, United States",Timothy Duncan,timothy.duncan@caldwell-lewis.com,2023-09-28,False
+16e07d9f-328b-431d-9056-55f6eab23b02,Davis Ltd,E-commerce,"Lake Deniseville, Australia",Jeff Owens,jeff.owens@davisltd.com,2020-10-17,True
+5a2e1495-dbfa-4c94-8848-0440da812c7e,Chandler-Mcbride,Finance,"South Isaiah, Canada",Corey Herrera,corey.herrera@chandler-mcbride.com,2024-03-19,True
+a9d9a806-c0ab-4c5f-ba98-d832eb12c5ef,Baxter Inc,Healthcare,"Lake Yvettetown, United Kingdom",Scott Pierce,scott.pierce@baxterinc.com,2021-01-26,True
+f22e4ca3-7465-4308-aa55-f457275b3c66,Martin Group,E-commerce,"South Josephmouth, Ireland",Dr. Steven Martin,dr..martin@martingroup.com,2022-09-15,True
+023371dd-8991-4a2e-8994-a92403b7cf04,Horton-Cross,Automotive,"West Jeff, Canada",Mary Tucker,mary.tucker@horton-cross.com,2020-10-10,True
+fb07c09b-e6a0-4200-987f-c668e171d1cb,"Fitzgerald, Brown and Edwards",Hospitality,"North Susan, United Kingdom",John Calhoun,john.calhoun@fitzgeraldbrownandedwards.com,2020-12-16,False
+544447fd-b35e-40dd-a0fe-17d033b2aada,Jones Inc,Automotive,"New Brooke, Canada",Cynthia Wilson,cynthia.wilson@jonesinc.com,2020-12-22,True
