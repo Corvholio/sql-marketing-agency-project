@@ -44,7 +44,7 @@ This project tackles realistic questions a company might ask, like:
 2. **Open or create a SQLite database** (e.g., `marketing_agency.db`)
 
 3. **Execute the schema**  
-   Use the file in `/sql/create_tables.sql` to build the tables
+   Use the file in `/sql/dig_marketing_schema.sql` to build the tables
 
 4. **Import the data**  
    Go to `File → Import → Table from CSV` in DB Browser and load the files from `/data/`
